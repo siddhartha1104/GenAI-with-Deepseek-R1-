@@ -62,7 +62,7 @@ Feel free to submit issues or pull requests to improve this project.
 
 - **LinkedIn**: [Siddhartha Pathak](https://www.linkedin.com/in/siddharthapathak/)
 - **Portfolio**: [siddharthapathak.com.np](https://siddharthapathak.com.np/)
-- **Gmail**: contact.siddharthapathak.com.np
+- **Gmail**: contact@siddharthapathak.com.np
 - **Alternative Gmail**: sidx404@gmail.com
 
 ## License
